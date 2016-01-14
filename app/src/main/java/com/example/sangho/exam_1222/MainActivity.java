@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private inputAll inAll;
     private Button btnNum[] = new Button[BTN_NUM_LEN];
     private Button btnOp[] = new Button[BTN_OP_LEN];
+    private int a;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
